@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "742505790218",
+    "project_id": "flash-chat-1f0a0",
+    "storage_bucket": "flash-chat-1f0a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742505790218:android:5bff8a515ae9f071ae18f3",
+        "android_client_info": {
+          "package_name": "jinozono.flash_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS1xUvB8sUOU2pKV-Bwo7bN14aiYjGj7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
